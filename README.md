@@ -1,2 +1,2 @@
-# AooniAPI-beta
+# AooniAPI
 Coming soon... ;)
