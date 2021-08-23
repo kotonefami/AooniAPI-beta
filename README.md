@@ -1,5 +1,11 @@
 # AooniAPI β
 
+[概要](https://github.com/kotonefami/AooniAPI-beta#概要) | 
+[開発状況](https://github.com/kotonefami/AooniAPI-beta#開発状況) | 
+[開発予定](https://github.com/kotonefami/AooniAPI-beta#開発予定) | 
+[用語](https://github.com/kotonefami/AooniAPI-beta#用語) | 
+[スクリーンショット](https://github.com/kotonefami/AooniAPI-beta#スクリーンショット)
+  
 ## 概要
 某実況者様の青鬼ごっこやその他の青鬼ゲームを提供するAPIです。
 
